@@ -2,7 +2,7 @@
 
 Repositório para envio de atividades propostas no curso de programação em C, ministrado pelo professor Nicollas Provatti.
 
-| Atividade      | Título no The Huxsley | Link do código     |
+| Atividade      | Título no The Huxsley | Código     |
 |:----------|:------|:----------:|
 | 1     | 16 - Bingo  | [Link](https://github.com/thassyodavid/programacao-em-c-oxetech/blob/main/bingo.c) |
 | 2     | 17 - Antecessor e Sucessor  | [Link](https://github.com/thassyodavid/programacao-em-c-oxetech/blob/main/antecessor_e_sucessor.c) |
